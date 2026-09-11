@@ -77,6 +77,10 @@ Unauthorized ReUpload includes, without limitation:
 
 **1.28 “Modification Reason”** means any statement, however short, subjective, humorous, trivial, or unreasonable, explaining why the Mod was modified. The Licensor does not verify, approve, or endorse the reason. The reason does not make the Modified Version official.
 
+**1.29 “Specific License”** means any separate license file included with the Mod, Source Code, Assets, or repository, including `LICENSE`, `LICENSE-ASSETS`, `LICENSE-Assets`, or a similar file. A Specific License may cover Source Code, Assets, or other specified parts of the project.
+
+**1.30 “Asset License”** means a Specific License that covers Assets, including `LICENSE-ASSETS`, `LICENSE-Assets`, or a similar file.
+
 ## 2. Grant of License
 
 Subject to the conditions of this License, the Licensor grants You a worldwide, non-exclusive, royalty-free, revocable license to:
@@ -90,6 +94,8 @@ Subject to the conditions of this License, the Licensor grants You a worldwide, 
 This License applies only to rights that the Licensor owns or has authority to license. It does not grant any rights to third-party content, libraries, trademarks, or assets unless separately stated.
 
 All rights not expressly granted are reserved by the Licensor.
+
+**2.6 Specific License Precedence.** If a Specific License applies to any part of the Mod, Source Code, or Assets, that Specific License controls that part. In case of conflict between this Redistribution License and a Specific License, the Specific License takes precedence for the files or parts it covers. This Redistribution License applies only to parts not covered by a Specific License.
 
 ## 3. Permitted Platforms
 
@@ -107,7 +113,7 @@ All rights not expressly granted are reserved by the Licensor.
 
 **3.4** You must comply with the rules and terms of the platform on which You redistribute the Mod. This License does not override platform terms. If there is a conflict, You must comply with both this License and the platform terms.
 
-**3.5** Source Code is governed by the Source Code License, not by this Section 3. This License does not restrict the platforms on which Source Code may be distributed, provided You comply with the Source Code License.
+**3.5** Source Code is governed by the Source Code License, not by this Section 3. This License does not restrict the platforms on which Source Code may be distributed, provided You comply with the Source Code License. If a Specific License applies to the Source Code, that Specific License controls.
 
 ## 4. Conditions for Redistribution
 
@@ -152,7 +158,7 @@ All rights not expressly granted are reserved by the Licensor.
 
 **(d) All other Commercial Use.** All Commercial Use not expressly permitted by this Section 4.9 requires prior written permission from the Licensor.
 
-**(e) ARR Assets.** If the Mod contains ARR Assets, Commercial Use is strictly prohibited unless the Licensor gives prior written permission for those ARR Assets. This prohibition applies even if the Mod itself remains free and publicly available. It includes, without limitation:
+**(e) ARR Assets.** If an Asset License applies to the ARR Assets, that Asset License controls those Assets. If no Asset License applies, the following rules apply. If the Mod contains ARR Assets, Commercial Use is strictly prohibited unless the Licensor gives prior written permission for those ARR Assets. This prohibition applies even if the Mod itself remains free and publicly available. It includes, without limitation:
 
 1. Commercial Modpacks;
 2. Commercial Servers;
@@ -177,7 +183,7 @@ If You want to use ARR Assets in a commercial project, You must obtain a separat
 2. clearly state that Your version is modified or forked;
 3. not claim that Your fork is official or endorsed by the Licensor.
 
-**(c) Assets.** For Assets, You may either:
+**(c) Assets.** If an Asset License applies to the Assets, that Asset License controls those Assets. If no Asset License applies, then for Assets, You may either:
 
 1. create Your own original Assets; or
 2. use the Licensor’s Assets only if You preserve the Licensor’s copyright notice and any applicable asset license.
@@ -191,6 +197,8 @@ If any Assets are marked as **ARR**, **All Rights Reserved**, or with a similar 
 3. You may not extract, redistribute, or modify them separately, unless the Licensor gives prior written permission;
 4. You may include them unchanged as part of a non-commercial redistribution of the Mod, provided You comply with this License and preserve all copyright notices;
 5. For any commercial use, You must either obtain prior written permission from the Licensor or replace the ARR Assets with Your own original Assets.
+
+If an Asset License expressly permits something that this Section 4.11(c) does not, the Asset License controls for the Assets it covers.
 
 **(d) No Confusion.** A Modified Version or Fork must not use the Licensor’s name, project name, logo, or branding in a way that misleads users into thinking it is the official version.
 
@@ -316,3 +324,5 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIA
 **9.6** Governing law and jurisdiction: `<JURISDICTION>`, unless otherwise required by applicable law.
 
 **9.7** Contact for permissions: `<CONTACT>`.
+
+**9.8 Specific License Precedence.** If any Specific License applies to any part of the Mod, Source Code, Assets, or repository, that Specific License controls that part. In case of conflict, the Specific License takes precedence over this Redistribution License for the files or parts it covers. This Redistribution License applies only to parts not covered by a Specific License.
