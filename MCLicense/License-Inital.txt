@@ -1,0 +1,141 @@
+Redistribution License (Full Version)
+Version 1.0 — By pengjie
+
+This Redistribution License defines the permitted and prohibited actions regarding the
+redistribution, modification, forking, and server/modpack usage of the project’s binary
+and source code. All users, developers, and distributors must comply with the following
+terms.
+
+----------------------------------------------------------------------
+1. Permitted Redistribution Platforms
+----------------------------------------------------------------------
+1.1 Redistribution of the mod’s binary files (jar) is permitted only on:
+    - Modrinth
+    - CurseForge
+
+1.2 Redistribution on MCMod is exclusively reserved for the original author.
+
+1.3 Redistribution of source code is permitted only on:
+    - GitHub
+    - GitLab
+    - CodeBerg
+
+1.4 Uploading the mod or its source code to any other platform, launcher, repository,
+    archive, or distribution site is prohibited unless explicitly authorized.
+
+----------------------------------------------------------------------
+2. Modification and Reupload of Binary Files
+----------------------------------------------------------------------
+2.1 Modified versions of the mod may be redistributed only if:
+    a. The uploader provides a stated reason for the modification (any reason is acceptable).
+    b. Proper attribution is given to the original author.
+    c. A link to at least one official project page (Modrinth, CurseForge, MCMod, GitHub,
+       GitLab, or CodeBerg) is included.
+    d. The redistribution complies with all other sections of this license.
+
+2.2 Unauthorized reuploading of the original or modified jar file is strictly prohibited.
+
+----------------------------------------------------------------------
+3. Attribution Requirements
+----------------------------------------------------------------------
+3.1 Redistribution must include clear attribution to the original author.
+
+3.2 Attribution must be visible in the redistribution description.
+
+3.3 A direct link to at least one official project page must be provided.
+
+----------------------------------------------------------------------
+4. License Preservation
+----------------------------------------------------------------------
+4.1 The original license (e.g., MIT License) must remain attached to all redistributed
+    binary and source code versions.
+
+4.2 Derivative works must comply with all obligations of the original license, including
+    attribution and license inclusion.
+
+4.3 License obligations apply to both binary redistribution and source redistribution.
+
+----------------------------------------------------------------------
+5. Commercial Use
+----------------------------------------------------------------------
+5.1 The mod may be included in commercial modpacks only if the mod itself remains
+    freely accessible to all users.
+
+5.2 The mod must not be placed behind any paywall, subscription, or exclusive-access
+    scheme.
+
+5.3 Any party wishing to distribute the mod under commercial terms beyond the above
+    (e.g., paid standalone distribution, proprietary integration) must obtain explicit
+    authorization from the original author.
+
+----------------------------------------------------------------------
+6. Source Code Modification, Forking, and Redistribution
+----------------------------------------------------------------------
+6.1 Modification and forking of the source code are permitted under the following
+    conditions:
+    a. The source code license (MIT or otherwise) must be respected.
+    b. The original copyright notice must be retained.
+    c. Assets must be either self-created or used with proper attribution.
+    d. Forks must clearly indicate they are derivative works.
+
+6.2 Reuploading the project’s source code, modified or unmodified, is strictly prohibited
+    unless it meets all redistribution conditions defined in Sections 1–5.
+
+6.3 Unauthorized source code reuploading includes:
+    a. Uploading to any non-permitted platform.
+    b. Uploading without attribution.
+    c. Uploading without a stated reason.
+    d. Uploading without preserving the original license.
+    e. Uploading as part of any repository or archive that does not comply with this license.
+
+----------------------------------------------------------------------
+7. ModPack Redistribution Rules
+----------------------------------------------------------------------
+7.1 Private Server ModPacks
+    Private server modpacks are permitted. The mod must remain freely accessible.
+
+7.2 Commercial ModPacks
+    Commercial modpacks are permitted under the conditions:
+    a. The mod remains free.
+    b. The mod is not placed behind any paywall or subscription.
+
+7.3 Offline ModPacks (Lazy Packs)
+    Offline modpacks are globally restricted:
+    a. May only be shared non-commercially between users.
+    b. Permitted solely for assisting users who cannot operate a computer (three or more
+       individuals must meet this condition).
+    c. Content creators are strictly prohibited from distributing offline modpacks.
+
+7.4 Modpacks are not required to include links to the original project pages.
+
+----------------------------------------------------------------------
+8. Server Usage Terms
+----------------------------------------------------------------------
+8.1 Private Servers
+    Private servers may use the mod without restriction. Attribution is not required.
+    The mod must remain free.
+
+8.2 Commercial Servers
+    Commercial servers may use the mod under the conditions:
+    a. The mod remains free.
+    b. Attribution to the original author is required.
+    c. If attribution is refused, commercial authorization must be obtained.
+
+8.3 Server-Side Modification
+    Server-side modifications are permitted if:
+    a. They comply with the original license.
+    b. Copyright notices are retained.
+    c. Modified versions are not redistributed unless compliant with Sections 1–7.
+
+8.4 License Preservation
+    All server-side uses must preserve the original license.
+
+8.5 Server Distribution
+    Servers may distribute the mod to players only if:
+    a. Distribution complies with ModPack rules.
+    b. The mod remains free.
+    c. Attribution is required for commercial servers only.
+
+----------------------------------------------------------------------
+End of License
+----------------------------------------------------------------------
