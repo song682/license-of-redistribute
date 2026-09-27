@@ -1,10 +1,10 @@
 # Redistribution License v1.1
 
-**Copyright (c) `<YEAR>` `<COPYRIGHT HOLDER>`**  
-**Project: `<MOD NAME / PROJECT NAME>`**  
-**Contact: `<CONTACT>`**  
-**Original Project Page(s): `<PROJECT URL(S)>`**
-**Project Code License: `<OPEN SOURCE LICENSE PLACEHOLDER>`**
+**Copyright (c) `<YEAR>` `<COPYRIGHT HOLDER>`**   
+**Project: `<MOD NAME / PROJECT NAME>`**   
+**Contact: `<CONTACT>`**   
+**Original Project Page(s): `<PROJECT URL(S)>`**   
+**Project Code License: `<OPEN SOURCE LICENSE PLACEHOLDER>`**  
 
 ## 1. Definitions
 
