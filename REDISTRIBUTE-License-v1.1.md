@@ -5,6 +5,7 @@
 **Contact: `<CONTACT>`**   
 **Original Project Page(s): `<PROJECT URL(S)>`**   
 **Project Code License: `<OPEN SOURCE LICENSE PLACEHOLDER>`**  
+**Project Assets License: `<Asset License>`**
 
 ## 1. Definitions
 
